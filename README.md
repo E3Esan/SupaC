@@ -81,9 +81,7 @@ It is a place for:
 
 SupaC is basically my personal coding folder and portfolio for the future — a little space where learning, experimentation, and curiosity can live together.
 
-If Ultron was never born, Skynet never happened, and the machine never started using us as free battery generators, then perhaps this repo would just be another quiet project folder.
-
-But here it is anyway.
+If Ultron was never born, Skynet never happened, and the machine never started using us as free battery generators, then maybe whatever I did here might be a chance to bring me closer to my goals.
 
 And yes, C is cool.
 
