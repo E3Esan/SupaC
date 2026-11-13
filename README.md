@@ -5,6 +5,7 @@ Pronunciation: "sùp-sàee" (สุภซี)
 > Around 10pm Friday, after a long boxing session and some kebab with iced cocoa, I decided to start making something in C.
 >
 > Why C? Because C is for cool, and only cool people use C.
+> Also if the readme writing is a bit professional, big thank to Github Copilot.
 
 Welcome to SupaC (สุภซี), a small personal C project folder and portfolio for my future career in software development. This repo is a little bit of everything: a playground for experiments, a place for learning, and a record of projects that range from silly ideas to more meaningful work.
 
